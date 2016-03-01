@@ -1,2 +1,5 @@
 # hello-world
-First Fan Mi's GitHub repository
+
+Hello everyone!
+
+I've made some updates to the file.
